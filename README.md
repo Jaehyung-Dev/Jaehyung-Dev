@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5842bc,100:12307e&height=240&text=Welcome%20to%20my%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" 
          alt="Welcome banner" />
 </div>
@@ -39,6 +39,13 @@
     </div>
 </div>
 
+<div style="text-align: left; display: flex;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=publicdev" width="40%" alt="Baekjoon Profile Badge" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehyung-Dev&layout=compact&bg_color=60,dc5050,f29969&title_color=000000&text_color=000000" 
+         alt="Top Languages" /> 
+</div>
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
     <div style="text-align: left;">
@@ -46,11 +53,4 @@
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
         </a>
     </div>  
-</div>
-
-<div style="text-align: left; display: flex;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=publicdev" width="40%" alt="Baekjoon Profile Badge" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehyung-Dev&layout=compact&bg_color=60,dc5050,f29969&title_color=000000&text_color=000000" 
-         alt="Top Languages" /> 
 </div>
