@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5842bc,100:12307e&height=240&text=Welcome%20to%20my%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" 
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6cc7f4,100:f7abcb&height=240&text=Welcome%20to%20my%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" 
          alt="Welcome banner" />
 </div>
 
@@ -42,8 +42,8 @@
 
 <div style="text-align: left; display: flex;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Jaehyung-Dev&bg_color=60,dc5050,f29969&title_color=000000&text_color=000000"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehyung-Dev&layout=compact&bg_color=60,dc5050,f29969&title_color=000000&text_color=000000" 
+    <img src="https://github-readme-stats.vercel.app/api?username=Jaehyung-Dev&bg_color=60,6cc7f4,f297bd&title_color=000000&text_color=000000"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehyung-Dev&layout=compact&bg_color=60,6cc7f4,f297bd&title_color=000000&text_color=000000" 
          alt="Top Languages" /> 
 </div>
 
