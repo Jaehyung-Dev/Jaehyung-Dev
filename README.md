@@ -3,7 +3,7 @@
          alt="Welcome banner" />
 </div>
 
-<div style="text-align: left;"> 
+<div style="text-align: center;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👉Introduce Me👈 </h2>  
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
         Hello! I'm JaeHyung, passionate about crafting user-friendly interfaces and creating amazing web experiences. <br>
@@ -12,8 +12,7 @@
 </div>
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
-    <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>  
     <div style="text-align: left;">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
@@ -42,7 +41,6 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
-    <br> 
     <div style="text-align: left;">
         <a href="mailto:halfjhyung@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
@@ -52,7 +50,7 @@
 
 <div style="text-align: left; display: flex;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=publicdev" width="40%" alt="Baekjoon Profile Badge" style="margin-right: 20px;"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=publicdev" width="40%" alt="Baekjoon Profile Badge" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehyung-Dev&layout=compact&bg_color=60,dc5050,f29969&title_color=000000&text_color=000000" 
          alt="Top Languages" /> 
 </div>
