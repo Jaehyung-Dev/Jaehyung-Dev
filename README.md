@@ -52,7 +52,7 @@
 
 <div style="text-align: left; display: flex"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=publicdev" width="40%" alt="Baekjoon Profile Badge" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehyung-Dev&layout=compact&bg_color=60,dc5050,f29969&title_color=000000&text_color=000000" 
          alt="Top Languages" /> 
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=publicdev" width="40%" alt="Baekjoon Profile Badge" />
 </div>
