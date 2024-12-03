@@ -3,7 +3,7 @@
          alt="Welcome banner" />
 </div>
 
-<div style="text-align: center;"> 
+<div style="display: flex; flex-direction: column; align-items: center;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👉Introduce Me👈 </h2>  
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
         Hello! I'm JaeHyung, passionate about crafting user-friendly interfaces and creating amazing web experiences. <br>
