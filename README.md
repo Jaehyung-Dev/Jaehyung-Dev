@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5842bc,100:12307e&height=240&text=Welcome%20to%20my%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduce Me!! </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduce Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello! I'm JaeHyung, passionate about crafting user-friendly interfaces and creating amazing web experiences. <br>Thank you for visiting my GitHub!😊 </div> 
     </div>
     <div style="text-align: left;">
