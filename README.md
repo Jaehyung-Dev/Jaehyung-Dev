@@ -11,7 +11,7 @@
     </div> 
 </div>
 
-<div style="text-align: left;">
+<div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>  
     <div style="text-align: left;">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
@@ -39,14 +39,14 @@
     </div>
 </div>
 
-<div style="text-align: left; display: flex;"> 
+<div align="center" style="text-align: left; display: flex;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=publicdev" width="40%" alt="Baekjoon Profile Badge" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehyung-Dev&layout=compact&bg_color=60,dc5050,f29969&title_color=000000&text_color=000000" 
          alt="Top Languages" /> 
 </div>
 
-<div style="text-align: left;">
+<div align="center" style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
     <div style="text-align: left;">
         <a href="mailto:halfjhyung@gmail.com">
