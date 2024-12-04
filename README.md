@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6cc7f4,100:f7abcb&height=240&text=Welcome%20to%20my%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" 
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6cc7f4,100:f7abcb&height=240&text=Welcome%20to%20my%20GitHub!!&animation=fadeIn&fontColor=ffffff&fontSize=60" 
          alt="Welcome banner" />
 </div>
 
@@ -9,6 +9,10 @@
         Hello! I'm JaeHyung, passionate about crafting user-friendly interfaces and creating amazing web experiences. <br>
         Thank you for visiting my GitHub! 😊
     </div> 
+    <br>
+    <div align="center"">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaehyung-Dev&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=true"/>
+    </div>
 </div>
 <br>
 <br>
