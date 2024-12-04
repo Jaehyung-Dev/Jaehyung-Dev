@@ -14,8 +14,8 @@
 <br>
 <br>
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>  
+<div align="center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️</h2>  
     <div style="text-align: left;">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
@@ -40,20 +40,20 @@
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" alt="Vue.js"> -->
 <br>
 
-<div style="text-align: left; display: flex;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Jaehyung-Dev&bg_color=60,6cc7f4,f297bd&title_color=000000&text_color=000000"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehyung-Dev&layout=compact&bg_color=60,6cc7f4,f297bd&title_color=000000&text_color=000000" 
+<div align="center" style="text-align: left; display: flex;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Stats 📊</h2> 
+    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Jaehyung-Dev&bg_color=60,6cc7f4,f297bd&title_color=000000&text_color=000000"/>
+    <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehyung-Dev&layout=compact&bg_color=60,6cc7f4,f297bd&title_color=000000&text_color=000000" 
          alt="Top Languages" /> 
 </div>
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Baekjoon </h2> 
+<div align="center" style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Baekjoon 🏅</h2> 
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=publicdev" width="40%" alt="Baekjoon Profile Badge" />
 </div>
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
+<div align="center" style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 📧 </h2> 
     <div style="text-align: left;">
         <a href="mailto:halfjhyung@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
