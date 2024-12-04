@@ -10,11 +10,14 @@
         Thank you for visiting my GitHub! 😊
     </div> 
     <br>
-    <div align="center"">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaehyung-Dev&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=true"/>
-    </div>
+    <details>
+        <summary>Visitor 👀</summary>
+        <br>
+        <div align="center"">
+            <img style="height: 25px;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaehyung-Dev&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=true"/>
+        </div>
+    </details>    
 </div>
-<br>
 <br>
 <br>
 
