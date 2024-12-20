@@ -7,7 +7,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <img src="https://github.com/user-attachments/assets/82d2f308-0b53-432c-956b-4de211ca3188" style="width: 30px" /> Introduce Me  </h2>  
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
         Hello! I'm JaeHyung, passionate about crafting user-friendly interfaces and creating amazing web experiences. <br>
-        Thank you for visiting my GitHub! 😊
+        Thank you for visiting my GitHub!! 😊
     </div> 
     <br>
     <details>
