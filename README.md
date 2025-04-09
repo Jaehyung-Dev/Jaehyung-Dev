@@ -3,6 +3,10 @@
          alt="Welcome banner" />
 </div>
 
+<div align="center">
+    <a href="https://cursor-project-4734e.web.app/">Cursor AI를 이용한 간단한 운세 사이트</a>
+</div>
+
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <img src="https://github.com/user-attachments/assets/82d2f308-0b53-432c-956b-4de211ca3188" style="width: 30px" /> Introduce Me  </h2>  
     <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
