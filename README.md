@@ -3,9 +3,21 @@
          alt="Welcome banner" />
 </div>
 
-<div align="center">
-    <a href="https://cursor-project-4734e.web.app/">Cursor AI를 이용한 간단한 운세 사이트</a>
-</div>
+<h2 align="center">✨ Projects ✨</h2>
+
+<p align="center">
+  <a href="https://cursor-project-4734e.web.app/" target="_blank">
+    🎯 <strong>Cursor + Firebase</strong> 를 활용한 간단한 운세 사이트 구현<br/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://cursor-project-4734e.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Cursor%20Fortune%20Site-Firebase-blue?style=for-the-badge&logo=firebase" alt="Cursor + Firebase 운세 사이트" />
+  </a>
+</p>
+<br>
+<br>
 
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <img src="https://github.com/user-attachments/assets/82d2f308-0b53-432c-956b-4de211ca3188" style="width: 30px" /> Introduce Me  </h2>  
