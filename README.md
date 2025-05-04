@@ -12,6 +12,13 @@
 </p>
 
 <p align="center">
+  <a href="http://211.188.48.167" target="_blank">
+    🎨 <strong>Colormate</strong> - 옷 색 조합을 추천해주는 개인 프로젝트 사이트 (개발 중)<br/>
+    상의·하의·신발 컬러를 기반으로 어울리는 코디를 자동 추천합니다.
+  </a>
+</p>
+
+<p align="center">
   <a href="https://cursor-project-4734e.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Cursor%20Fortune%20Site-Firebase-blue?style=for-the-badge&logo=firebase" alt="Cursor + Firebase 운세 사이트" />
   </a>
