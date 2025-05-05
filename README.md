@@ -12,6 +12,12 @@
 </p>
 
 <p align="center">
+  <a href="https://cursor-project-4734e.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Cursor%20Fortune%20Site-Firebase-blue?style=for-the-badge&logo=firebase" alt="Cursor + Firebase 운세 사이트" />
+  </a>
+</p>
+
+<p align="center">
   <a href="http://211.188.48.167" target="_blank">
     🎨 <strong>Colormate</strong> - 옷 색 조합을 추천해주는 개인 프로젝트 사이트 (개발 중)<br/>
     상의·하의·신발 컬러를 기반으로 어울리는 코디를 자동 추천합니다.
@@ -19,10 +25,13 @@
 </p>
 
 <p align="center">
-  <a href="https://cursor-project-4734e.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Cursor%20Fortune%20Site-Firebase-blue?style=for-the-badge&logo=firebase" alt="Cursor + Firebase 운세 사이트" />
-  </a>
+  <img src="https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue3" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=for-the-badge&logoColor=white" alt="Naver Cloud" />
 </p>
+
 <br>
 <br>
 
