@@ -19,8 +19,7 @@
 
 <p align="center">
   <a href="http://211.188.48.167" target="_blank">
-    🎨 <strong>Colormate</strong> - 옷 색 조합을 추천해주는 개인 프로젝트 사이트 (개발 중)<br/>
-    상의·하의·신발 컬러를 기반으로 어울리는 코디를 자동 추천합니다.
+    🎨 <strong>Colormate</strong>
   </a>
 </p>
 
