@@ -6,19 +6,7 @@
 <h2 align="center">✨ Projects ✨</h2>
 
 <p align="center">
-  <a href="https://cursor-project-4734e.web.app/" target="_blank">
-    🎯 <strong>Cursor + Firebase</strong> 를 활용한 간단한 운세 사이트 구현<br/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://cursor-project-4734e.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Cursor%20Fortune%20Site-Firebase-blue?style=for-the-badge&logo=firebase" alt="Cursor + Firebase 운세 사이트" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="http://211.188.48.167" target="_blank">
+  <a href=http://175.45.203.183" target="_blank">
     🎨 <strong>Colormate</strong>
   </a>
 </p>
