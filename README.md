@@ -48,12 +48,12 @@
     </div>
 <br>
 
-<div align="center" style="text-align: left; display: flex;"> 
+<!-- <div align="center" style="text-align: left; display: flex;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 Stats 📊</h2> 
     <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api?username=Jaehyung-Dev&bg_color=60,6cc7f4,f297bd&title_color=ffffff&text_color=ffffff"/>
     <img style="height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaehyung-Dev&layout=compact&bg_color=60,6cc7f4,f297bd&title_color=ffffff&text_color=ffffff" 
          alt="Top Languages" /> 
-</div>
+</div> -->
 
 <div align="center" style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 📧 </h2> 
