@@ -6,7 +6,7 @@
 <h2 align="center">✨ Projects ✨</h2>
 
 <p align="center">
-  <a href=http://175.45.203.183 target="_blank">
+  <a href=https://colormate.o-r.kr target="_blank">
     🎨 <strong>Colormate</strong>
   </a>
 </p>
